@@ -70,7 +70,7 @@ body {
 
 .name p {
     font-size: small;
-    color: rgb(135,9,191);
+    color: rgb(120,80,191);
     font-weight: 900;
 }
 
@@ -91,7 +91,7 @@ body {
 }
 
 .linkItem:hover {
-    background-color: rgba(135,9,191, 0.6);
+    background-color: rgba(120,80,191, 0.6);
     cursor: pointer;
     transition: 0.5s;
 }

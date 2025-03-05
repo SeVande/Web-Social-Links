@@ -21,7 +21,7 @@ body {
     height: 35rem;
     background-color: rgba(32,32,32, 1);
     border-radius: 0.7rem;
-    padding: 2rem;
+    padding: 3rem 2rem 2rem 2rem;
 }
 
 .container, .profileBio, .bio, .links {
